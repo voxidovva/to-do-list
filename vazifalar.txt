@@ -1,0 +1,25 @@
+1-kishi — HTML
+Sahifaning skeleti
+Header
+Input
+Buttonlar
+To-do itemlar
+Containerlar
+HTML semantik strukturasi
+2-kishi — CSS
+Ranglar
+Fontlar
+Joylashuv
+Button/input dizayni
+Responsive
+Hover/active animatsiyalar
+Umumiy chiroyli ko‘rinish
+3-kishi — JavaScript
+Add task
+Delete task
+Complete task
+Edit task
+Task counter
+LocalStorage
+Barcha interaktiv funksiyalar
+Eng yaxshi workflow: avval HTML odam strukturani tayyorlaydi → CSS odam shu strukturaga dizayn beradi → JS odam tayyor elementlarga funksiyalarni ulaydi. Shu paytda uchalaringiz parallel ishlashingiz mumkin.
